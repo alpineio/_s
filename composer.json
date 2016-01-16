@@ -1,0 +1,11 @@
+{
+    "name": "alpineio/_s",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "Morgan O'Neal",
+            "email": "moneal@alpine.io"
+        }
+    ],
+    "require": {}
+}
