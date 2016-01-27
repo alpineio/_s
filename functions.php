@@ -150,3 +150,8 @@ require get_template_directory() . '/inc/customizer.php';
  * Load Jetpack compatibility file.
  */
 require get_template_directory() . '/inc/jetpack.php';
+
+/**
+ * Include bootstrap nav walker class
+ */
+require get_template_directory() . '/inc/wp_bootstrap_navwalker.php';
